@@ -17,26 +17,27 @@ A lightweight, indie Chess engine built with **C#**. This project focuses on cle
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/chess-csharp.git](https://github.com/yourusername/chess-csharp.git)
+
 Navigate to the project directory:
 
-Bash
-cd chess-csharp
-Run the project:
+2. Change Directory
+   ```bash
+   cd chess-csharp
 
-Bash
-dotnet run
-🛠 Tech Stack
-Language: C#
+3. Run the project:
 
-Framework: .NET
+   ```bash
+      dotnet run
+   
+## 🛠 Tech Stack
+* Language: C#
+* Framework: .NET Core
+* Patterns: Strategy, Command
 
-Architecture: Strategy pattern for piece movement and state management.
+## 📝 Roadmap
+- [ ] Minimax AI opponent.
+- [ ] PGN support.
+- [ ] Graphical UI.
 
-📝 Roadmap
-[ ] Implement Minimax AI opponent.
-
-[ ] Add PGN format support for saving games.
-
-[ ] Develop a graphical interface.
-
-Developed as an indie exploration into game logic and C# architecture.
+---
+*Developed as an indie exploration into C# architecture.*
