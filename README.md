@@ -16,7 +16,7 @@ A lightweight, indie Chess engine built with **C#**. This project focuses on cle
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/chess-csharp.git](https://github.com/yourusername/chess-csharp.git)
+   git clone [https://github.com/yourusername/chess-csharp.git](https://github.com/wtdear/Chess.git)
 
 Navigate to the project directory:
 
