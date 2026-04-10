@@ -34,10 +34,5 @@ Navigate to the project directory:
 * Framework: .NET Core
 * Patterns: Strategy, Command
 
-## 📝 Roadmap
-- [ ] Minimax AI opponent.
-- [ ] PGN support.
-- [ ] Graphical UI.
-
 ---
 *Developed as an indie exploration into C# architecture.*
